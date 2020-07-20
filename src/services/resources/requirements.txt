@@ -1,0 +1,9 @@
+Flask==1.0.2
+Flask-Compress==1.4.0
+Flask-GraphQL==2.0.1
+graphene==2.1.8
+graphene-federation==0.1.0
+graphene-file-upload==1.2.2
+graphene-mongo==0.2.12
+mongoengine==0.20.0
+
