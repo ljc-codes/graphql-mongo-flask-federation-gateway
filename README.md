@@ -1,4 +1,4 @@
-# squid-federations
+# graphql-mongodb-flask-api-federation
 ⚗️  graphql gateway with federated schema flask servers and mongoengine integration
 
 
